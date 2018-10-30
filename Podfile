@@ -5,6 +5,7 @@ target 'TrustCore' do
   pod 'BigInt', '~> 3.0'
   pod 'SwiftLint'
   pod 'SwiftProtobuf', '~> 1.0'
+  pod 'TrezorCrypto'
   
   target 'TrustCoreTests'
 end
